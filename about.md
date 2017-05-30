@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-CAULPublishing-X.github.io is a site to service the July 11-12, 2017 Australian University Publishing Symposium named CAUL Publishing-X. Hosted by the University of Technology Sydney (Library) at the Frank Gehry designed Dr Chau Chak Wing Building (UTS Business School) the symposium aims to bring together University Publishing specialists and innovative digital service providers to share practical knowledge and insight into the rapidly changing environment that is international scholarly communication.
+This site has been set up to service and promote CAUL Publishing-X 2017 - the July 11-12, Australian University Library Publishing symposium. Hosted by the University of Technology Sydney at the Frank Gehry designed Dr Chau Chak Wing Building (UTS Business School) the symposium aims to bring together University Publishing specialists and innovative digital service providers to share practical knowledge and insight into the rapidly changing environment that is international scholarly communication.
 
 ### More Information
 
