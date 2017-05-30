@@ -3,6 +3,8 @@ layout: page
 title: Location
 permalink: /location/
 ---
+![alt text](https://raw.githubusercontent.com/librarydatacarpentry/librarydatacarpentry.github.io/f505d0d5f16699fa56fc2c0d55674601086730ac/location/images/dccw-banner-03.jpg)
+
 CAULPublishing-X will be held on July 11-12 2017 int the University of Sydney's (UTS) Dr Chau Chak Wing Building.
 
 The Dr Chau Chak Wing builidng is located at UTS Building 8, 14-28 Ultimo Road, Ultimo, NSW 2007. 
