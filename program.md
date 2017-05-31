@@ -73,7 +73,7 @@ body,#bodyTable,#bodyCell{
 	@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
 	*/
 		body,#bodyTable{
-			/*@editable*/background-color:#F2F2F2;
+			/*@editable background-color:#F2F2F2;*/
 		}
 	/*
 	@tab Page
