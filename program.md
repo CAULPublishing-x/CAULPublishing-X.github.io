@@ -725,7 +725,7 @@ body,#bodyTable,#bodyCell{
                             <td class="mcnImageContent" valign="top" style="padding-right: 0px; padding-left: 0px; padding-top: 0; padding-bottom: 0; text-align:center;">
                                 
                                     
-                                        <img align="center" alt="" src="https://gallery.mailchimp.com/51b07749fd4a1be832152a7ef/images/44cb386a-11ed-48fb-a939-2b40b4d5cc22.jpg" width="600" style="max-width:600px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" class="mcnImage">
+                                        <img align="center" alt="" src="../images/44cb386a-11ed-48fb-a939-2b40b4d5cc22.jpg" width="600" style="max-width:600px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" class="mcnImage">
                                     
                                 
                             </td>
