@@ -690,7 +690,7 @@ body,#bodyTable,#bodyCell{
                         
                         <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;color: #000000;font-family: Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif;font-size: 12px;font-weight: normal;">
                         
-                            <a href="*|ARCHIVE|*" target="_blank">View this email in your browser</a>
+                            
                         </td>
                     </tr>
                 </tbody></table>
