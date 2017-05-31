@@ -1277,7 +1277,7 @@ text books</div>
                                 <tbody><tr>
                                     <td valign="top" class="mcnTextContent" style="color: #020202;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: center;">
                                         <div style="text-align: left;"><span style="color:#f04b22"><span style="font-size:17px"><strong>3.35pm – 4.50pm</strong></span></span><br>
-<strong>Fiona Salisbury&nbsp;<a href="http://orcid.org/0000-0002-0760-4945" target="_blank"><img data-file-id="3051337" height="15" src="../2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a></strong>&nbsp;La Trobe University e textbooks project 3.40pm - 4.20pm<br>
+<strong>Fiona Salisbury&nbsp;<a href="http://orcid.org/0000-0002-0760-4945" target="_blank"><img data-file-id="3051337" height="15" src="../images/2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a></strong>&nbsp;La Trobe University e textbooks project 3.40pm - 4.20pm<br>
 <strong>Ross McCaul</strong>, eGloo Technologies demo of 3 production options as a skills workshop - <a href="https://www.linkedin.com/in/ross-mccaul-93a43620/?ppe=1" target="_blank">LinkedIn Profile</a>&nbsp;4.20pm - 4.50pm</div>
 
                                     </td>
