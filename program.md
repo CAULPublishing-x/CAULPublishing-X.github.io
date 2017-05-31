@@ -1195,7 +1195,7 @@ Simon Fraser University Library, Vancouver, Canada</div>
                                 <tbody><tr>
                                     <td valign="top" class="mcnTextContent" style="color: #020202;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: center;">
                                         <div style="text-align: left;"><span style="color:#f04b22"><span style="font-size:17px"><strong>3.00pm – 3.30pm</strong></span></span><br>
-<strong>Scott Abbott</strong>&nbsp;<a href="http://orcid.org/0000-0002-2701-7756" target="_blank"><img data-file-id="3051337" height="15" src="../2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px; width: 15px; height: 15px; margin: 0px;" width="15"></a>&nbsp;&nbsp;UTS<br>
+<strong>Scott Abbott</strong>&nbsp;<a href="http://orcid.org/0000-0002-2701-7756" target="_blank"><img data-file-id="3051337" height="15" src="../images/2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px; width: 15px; height: 15px; margin: 0px;" width="15"></a>&nbsp;&nbsp;UTS<br>
 &nbsp;</div>
 
                                     </td>
@@ -1720,7 +1720,7 @@ Infogrid Pacific (IGP), tekReader</div>
                                 <tbody><tr>
                                     <td valign="top" class="mcnTextContent" style="color: #020202;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: center;">
                                         <div style="text-align: left;"><span style="color:#f04b22"><span style="font-size:17px"><strong>11.30pm&nbsp;– 12.00pm</strong></span></span><br>
-<strong>Julie-Anne Marshall</strong> and <strong>Scott Abbott&nbsp;<a href="http://orcid.org/0000-0002-2701-7756" target="_blank"><img data-file-id="3051337" height="15" src="../2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a></strong>&nbsp;UTS</div>
+<strong>Julie-Anne Marshall</strong> and <strong>Scott Abbott&nbsp;<a href="http://orcid.org/0000-0002-2701-7756" target="_blank"><img data-file-id="3051337" height="15" src="../images/2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a></strong>&nbsp;UTS</div>
 
                                     </td>
                                 </tr>
@@ -1881,7 +1881,7 @@ Infogrid Pacific (IGP), tekReader</div>
                                 <tbody><tr>
                                     <td valign="top" class="mcnTextContent" style="color: #020202;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: center;">
                                         <div style="text-align: left;"><span style="color:#f04b22"><span style="font-size:17px"><strong>12.45pm&nbsp;– 1.00pm</strong></span></span><br>
-<strong>Mal Booth</strong> <a href="http://orcid.org/0000-0002-2737-8412" target="_blank"><img data-file-id="3051337" height="15" src="../2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a>&nbsp;to facilitate</div>
+<strong>Mal Booth</strong> <a href="http://orcid.org/0000-0002-2737-8412" target="_blank"><img data-file-id="3051337" height="15" src="../images/2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a>&nbsp;to facilitate</div>
 
                                     </td>
                                 </tr>
