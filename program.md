@@ -861,10 +861,10 @@ body,#bodyTable,#bodyCell{
                                         <div style="text-align: left;"><span style="color:#f04b22"><span style="font-size:17px"><strong>9.30am – 11.00am<br>
 11.30am – 12.30pm </strong></span></span><strong>&nbsp;<br>
 ANU: Emily Hazelwood - <a href="https://www.linkedin.com/in/emily-hazlewood-53255067/?ppe=1" target="_blank">LinkedIn Profile</a></strong><br>
-<strong>Adelaide: John Emerson&nbsp;<a href="http://orcid.org/0000-0001-9811-3262" target="_blank"><img data-file-id="3051337" height="15" src="images/2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a></strong><br>
+<strong>Adelaide: John Emerson&nbsp;<a href="http://orcid.org/0000-0001-9811-3262" target="_blank"><img data-file-id="3051337" height="15" src="../images/2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a></strong><br>
 <strong>Monash: Sarah Cannon - <a href="https://www.linkedin.com/in/sarah-cannon-8492945b/" target="_blank">LinkedIn Profile</a></strong><br>
 <strong>SUP: Susan Murray - <a href="https://www.linkedin.com/in/susanmurraysydney/?ppe=1" target="_blank">LinkedIn Profile</a></strong><br>
-<strong>UTS: Belinda Tiffen&nbsp;<a href="http://orcid.org/0000-0002-3318-0883" target="_blank"><img data-file-id="3051337" height="15" src="https://gallery.mailchimp.com/51b07749fd4a1be832152a7ef/images/2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a></strong></div>
+<strong>UTS: Belinda Tiffen&nbsp;<a href="http://orcid.org/0000-0002-3318-0883" target="_blank"><img data-file-id="3051337" height="15" src="../images/2ae4a567-91ba-40fd-9e38-b8727c4ccb0f.png" style="border: 0px  ; width: 15px; height: 15px; margin: 0px;" width="15"></a></strong></div>
 
                                     </td>
                                 </tr>
